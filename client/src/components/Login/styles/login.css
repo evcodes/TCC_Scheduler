@@ -3,5 +3,64 @@
     width:100vw;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: red;
+}
+
+.login-container{
+    margin-top:20vh;
+    height:55vh;
+    background-color: white;
+    padding:20px;
+}
+
+.login-logo{
+    width:70%;
+    margin-left:15%;
+    margin-top:10px;
+}
+
+.login-app-name{
+    font-size:1.2rem;
+    margin-top:2rem;
+}
+
+.login-panel-left{
+    border-right: 2px solid #606060;
+    margin-top: 15px;
+    margin-bottom:15px;
+}
+
+.login-row{
+    height:100%
+}
+
+.login-panel-right{
+    text-align: left;
+}
+
+.login-admin-label{
+    margin-top:20px;
+    font-size: 1.5rem;
+    margin-bottom:20px;
+    margin-left:2rem;
+}
+
+.login-form-container{
+    margin-left:2rem;
+    margin-right:2rem;
+    font-size: 1rem;
+}
+
+.login-form-label{
+    font-size: 0.8rem;
+    color:#27A9e2
+}
+
+.login-btn {
+    background-color:#27A9e2!important;
+    border:none!important;
+}
+
+.forgot-password{
+    text-align:center;
+    margin-top: 1rem;;
 }
